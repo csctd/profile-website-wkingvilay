@@ -1,8 +1,8 @@
 # -- Project information -----------------------------------------------------
 
-project = 'Most dangerous Anime Club in the first sentry'
-copyright = '2022, Anon'
-author = 'Anon'
+project = 'Site Title'
+copyright = '2022, Your name'
+author = 'Your Name'
 
 
 
